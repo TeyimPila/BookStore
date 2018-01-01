@@ -35,7 +35,6 @@ function mapStateToProp(state) {
     }
 }
 
-
 function mapDispatchToProps(dispatch) {
     /**
      * Whenever selectBook is called, the result should be passed

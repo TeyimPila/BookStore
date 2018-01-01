@@ -1,0 +1,8 @@
+.book-detail {
+    border: solid #d5d5d5 1px;
+    border-radius: 2px;
+}
+
+.book-detail h3 {
+    text-align: center;
+}
